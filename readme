@@ -1,8 +1,8 @@
 copy the codes (.ipynd) to google drive and open them.
-download train2 and test2 folders ,from      http://www.upfile.co.il/file/148703331.html         and                http://www.upfile.co.il/file/xxxxxxx.html          ,
+download train2 and test2 folders ,from      http://www.upfile.co.il/file/148703331.html   and   http://www.upfile.co.il/file/xxxxxxx.html          ,
 and copy them to google drive.
 
-run the codes .
+run the codes (we used keras).
 the codes implimanting signature verification of the paper :
 
 Learning Features for Offline Handwritten Signature Verification using Deep Convolutional...
