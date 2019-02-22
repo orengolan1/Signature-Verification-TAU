@@ -1,0 +1,17 @@
+copy the codes (.ipynd) to google drive and open them.
+download train2 and test2 folders and copy them to google drive.
+run the codes .
+the codes implimanting signature verification of the paper :
+
+Learning Features for Offline Handwritten Signature Verification using Deep Convolutional...
+Neural Networks by Luiz G. Hafemanna, Robert Sabourina, Luiz S. Oliveirab
+
+signatureVrification_without_change_project_final_code.ipynd
+
+we tried to changed they work and improve it (we add here 2 of our experiments ):
+
+change_size_CNN_signatureVerification_project_final_code.ipynb
+dropout_signatureVerification_project_final_code.ipynb 
+
+in the codes you might need to change the path to the location of train 2 and test 2 in your drive.
+
